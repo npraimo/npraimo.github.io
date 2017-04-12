@@ -1,5 +1,3 @@
 # npraimo.github.io
 
-# Comments
-
-x=4
+# Welcome to the Jungle
