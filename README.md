@@ -1,3 +1,3 @@
 # Welcome to the Jungle
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+(https://www.youtube.com/watch?v=o1tj2zJ2Wvg)
